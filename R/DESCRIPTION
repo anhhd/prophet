@@ -12,7 +12,7 @@ Description: Implements a procedure for forecasting time series data based on
   at least one year of historical data.  Prophet is robust to missing data,
   shifts in the trend, and large outliers.
 Depends:
-    R (>= 3.2.3),
+    R (>= 3.0.0),
     Rcpp (>= 0.12.0)
 Imports:
     dplyr (>= 0.5.0),
